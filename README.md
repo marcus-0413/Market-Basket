@@ -5,3 +5,4 @@ The project mainly discovers the pattern in transactions by grouping the item se
 # Dataset
 The dataset is obtained from the kaggle. URL: https://www.kaggle.com/datasets/shazadudwadia/supermarket
 
+## Check out the 'Ap priori.ipynb' file to see the insight
